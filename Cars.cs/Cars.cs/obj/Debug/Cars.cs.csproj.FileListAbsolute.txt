@@ -1,0 +1,7 @@
+C:\Users\Compar Academy\source\repos\Cars.cs\Cars.cs\bin\Debug\Cars.cs.exe.config
+C:\Users\Compar Academy\source\repos\Cars.cs\Cars.cs\bin\Debug\Cars.cs.exe
+C:\Users\Compar Academy\source\repos\Cars.cs\Cars.cs\bin\Debug\Cars.cs.pdb
+C:\Users\Compar Academy\source\repos\Cars.cs\Cars.cs\obj\Debug\Cars.cs.csprojAssemblyReference.cache
+C:\Users\Compar Academy\source\repos\Cars.cs\Cars.cs\obj\Debug\Cars.cs.csproj.CoreCompileInputs.cache
+C:\Users\Compar Academy\source\repos\Cars.cs\Cars.cs\obj\Debug\Cars.cs.exe
+C:\Users\Compar Academy\source\repos\Cars.cs\Cars.cs\obj\Debug\Cars.cs.pdb
